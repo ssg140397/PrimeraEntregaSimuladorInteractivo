@@ -1,3 +1,5 @@
+//Primera entrega: Proyecto de cotizador/ servicio de atencion al cliente de seguros y productos financieros inspirados en las atenciones de servicio por chatbox o wp. 
+
 let nombre = prompt ("Ingrese su nombre")
 Bienvenido ();
 
